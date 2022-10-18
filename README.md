@@ -1,6 +1,6 @@
 # Readme
 
-"Minimalized" version of Unitys Render Streaming web application.
+"Minimalized" version of Unitys [Render Streaming web application](https://github.com/Unity-Technologies/UnityRenderStreaming/tree/develop/WebApp).
 
 Standard node project so, just type the following and you're good to go:
 
